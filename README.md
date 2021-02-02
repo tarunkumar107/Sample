@@ -18,7 +18,7 @@
 
 
 # Link
-[Link](https://tarunkumar107.github.io/ecommerce)
+[Link](https://avatars.githubusercontent.com/u/67452712?s=460&v=4)
 
 | Name | PinNo. | Branch |
 |--------|---------|---------|
